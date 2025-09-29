@@ -571,6 +571,3 @@ and I learn best by building."
 
 
 
-
-
-
